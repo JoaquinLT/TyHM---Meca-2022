@@ -1,5 +1,5 @@
-# Informe en Overleaf (LaTeX):
-https://www.overleaf.com/read/byjqtfqfcdst
+# Editor de Texto en Overleaf:
+[Informe en LaTeX](https://www.overleaf.com/read/byjqtfqfcdst)
 
 # Consignas del proyecto:
 
